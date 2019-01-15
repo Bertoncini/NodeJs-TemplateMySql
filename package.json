@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-templatebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bin/server.js"
+  },
+  "keywords": [],
+  "author": "Alexsandro Bertoncini",
+  "license": "ISC"
+}
